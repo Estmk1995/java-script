@@ -1,0 +1,17 @@
+#Segundo{
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    align-content: space-between;
+    justify-content: center;
+}
+.item{
+    background-color: blue;
+}
+.item1{
+    background-color: crimson;
+}.item2{
+    background-color: blueviolet;
+}.item3{
+    background-color: aqua;
+}
